@@ -1,3 +1,5 @@
+
+/*n*n乘法表*/
 import java.util.Scanner;
 
 public class multiplicationTable {
