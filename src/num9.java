@@ -1,3 +1,6 @@
+/*数字9 出现的次数
+
+编写程序数一下 1到 100 的所有整数中出现多少个数字9*/
 public class num9 {
     public static void main(String[] args) {
         int count=0;
